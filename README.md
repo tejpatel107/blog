@@ -2,10 +2,10 @@
 
 Hello Everybody!
 
-This is a project on blog as a part of challenge that I have created while taking online course of 'The Complete 2021 Web Development Bootcamp' by Dr. Angela Yu on Udemy. 
-This project helped me a lot understaing how to work with EJS templates, connecting our app.js server file with local MongoDB, server creating, setting up correct routes for GET/POST requests; setting up dynamic routes by using route parameters.
+This is a project on a blog as a part of the challenge that I have created while taking an online web development course.
+This project helped me a lot in understanding how to work with EJS templates, connecting our app.js server file with local MongoDB, server creating, setting up correct routes for GET/POST requests; setting up dynamic routes by using route parameters.
 
-You can publish a post by going to route /compose. Your post will be appeared on home page after you publish.
+You can publish a post by going to route /compose. Your post will appear on home page after you publish.
 
 Instructions:
 1)	Run node app.js in one terminal window,
